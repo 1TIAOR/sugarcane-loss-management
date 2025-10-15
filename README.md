@@ -13,9 +13,9 @@
 ## 👨‍🎓 Integrantes:
 
 - <a href="https://www.linkedin.com/in/gabriel-h-oliveira">Gabriel Oliveira</a>
-- <a href="#">Integrante 2</a>
-- <a href="#">Integrante 3</a>
-- <a href="#">Integrante 4</a>
+- <a href="#">Guilherme Filartiga Pereira da Silva</a>
+- <a href="#">Thiago Limongi Faria dos Reis</a>
+- <a href="#">Gabriel Luiz Fagundes</a>
 
 ## 📜 Descrição
 
